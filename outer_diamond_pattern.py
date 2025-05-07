@@ -1,4 +1,3 @@
-
 # outer diamond pattern
 n = 5
 
