@@ -4,9 +4,9 @@ for i in range(0, n):
         print(" ", end="")
     print("* "*n, end="")
     print()
-#
+
 # op
-#
+
 # * * * * *
 #  * * * * *
 #   * * * * *
