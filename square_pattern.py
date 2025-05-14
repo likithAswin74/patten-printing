@@ -7,7 +7,6 @@ for i in range(0, n):
             print("  ", end="")
     print()
 
-
 # op
 
 # * * * * *
