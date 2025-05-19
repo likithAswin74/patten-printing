@@ -1,3 +1,4 @@
+n = 5
 a = []
 for i in range(n):
     for j in range(n-i-1):
