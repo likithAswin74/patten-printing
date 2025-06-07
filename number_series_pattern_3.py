@@ -8,7 +8,6 @@ for i in range(n):
             hold = val
             print(val, end=" ")
         else:
-
             hold += (n-j)
             print(hold, end=" ")
     print()
