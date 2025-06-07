@@ -1,3 +1,5 @@
+# number pattern horizontal
+
 n = 5
 val = 0
 for i in range(n):
